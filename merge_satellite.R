@@ -45,3 +45,4 @@ stacklist <- lapply(seq(tiles), function (j){ #3x, für alle Kacheln
 })
 
 plot(stacklist[[2]])
+
